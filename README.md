@@ -1,4 +1,4 @@
 # hello-world
-Hey evereyone
+Hey everyone
 
 I'm a student
