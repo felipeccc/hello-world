@@ -1,2 +1,4 @@
 # hello-world
-Just to learn
+Hey everyone
+
+I'm a student
